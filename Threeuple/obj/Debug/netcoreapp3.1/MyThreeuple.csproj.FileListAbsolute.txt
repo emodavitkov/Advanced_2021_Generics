@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\bin\Debug\netcoreapp3.1\MyThreeuple.exe
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\bin\Debug\netcoreapp3.1\MyThreeuple.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\bin\Debug\netcoreapp3.1\MyThreeuple.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\bin\Debug\netcoreapp3.1\MyThreeuple.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\bin\Debug\netcoreapp3.1\MyThreeuple.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\bin\Debug\netcoreapp3.1\MyThreeuple.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\obj\Debug\netcoreapp3.1\MyThreeuple.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\obj\Debug\netcoreapp3.1\MyThreeuple.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\obj\Debug\netcoreapp3.1\MyThreeuple.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\obj\Debug\netcoreapp3.1\MyThreeuple.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\obj\Debug\netcoreapp3.1\MyThreeuple.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\obj\Debug\netcoreapp3.1\MyThreeuple.genruntimeconfig.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Threeuple\obj\Debug\netcoreapp3.1\MyThreeuple.csprojAssemblyReference.cache

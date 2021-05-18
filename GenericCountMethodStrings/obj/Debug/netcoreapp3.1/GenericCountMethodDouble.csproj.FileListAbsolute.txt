@@ -1,0 +1,12 @@
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.exe
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodDouble.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodDouble.genruntimeconfig.cache

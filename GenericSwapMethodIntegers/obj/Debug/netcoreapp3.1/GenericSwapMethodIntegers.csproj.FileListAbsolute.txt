@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.exe
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.genruntimeconfig.cache

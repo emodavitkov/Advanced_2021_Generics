@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.exe
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\bin\Debug\netcoreapp3.1\GenericsList.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\GenericsList\obj\Debug\netcoreapp3.1\GenericsList.genruntimeconfig.cache

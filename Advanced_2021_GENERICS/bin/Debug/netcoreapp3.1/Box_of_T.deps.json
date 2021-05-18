@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Box_of_T/1.0.0": {
+        "runtime": {
+          "Box_of_T.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Box_of_T/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

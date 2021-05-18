@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\obj\Debug\netcoreapp3.1\CustomTuple.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\obj\Debug\netcoreapp3.1\CustomTuple.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\obj\Debug\netcoreapp3.1\CustomTuple.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\obj\Debug\netcoreapp3.1\CustomTuple.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\bin\Debug\netcoreapp3.1\CustomTuple.exe
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\bin\Debug\netcoreapp3.1\CustomTuple.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\bin\Debug\netcoreapp3.1\CustomTuple.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\bin\Debug\netcoreapp3.1\CustomTuple.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\bin\Debug\netcoreapp3.1\CustomTuple.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\bin\Debug\netcoreapp3.1\CustomTuple.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\obj\Debug\netcoreapp3.1\CustomTuple.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\obj\Debug\netcoreapp3.1\CustomTuple.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Tuple\obj\Debug\netcoreapp3.1\CustomTuple.genruntimeconfig.cache

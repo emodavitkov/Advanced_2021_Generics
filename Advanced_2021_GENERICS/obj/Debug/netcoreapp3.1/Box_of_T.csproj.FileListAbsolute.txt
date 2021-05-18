@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\bin\Debug\netcoreapp3.1\Box_of_T.exe
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\bin\Debug\netcoreapp3.1\Box_of_T.deps.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\bin\Debug\netcoreapp3.1\Box_of_T.runtimeconfig.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\bin\Debug\netcoreapp3.1\Box_of_T.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\bin\Debug\netcoreapp3.1\Box_of_T.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\bin\Debug\netcoreapp3.1\Box_of_T.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\obj\Debug\netcoreapp3.1\Box_of_T.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\obj\Debug\netcoreapp3.1\Box_of_T.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\obj\Debug\netcoreapp3.1\Box_of_T.AssemblyInfo.cs
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\obj\Debug\netcoreapp3.1\Box_of_T.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\obj\Debug\netcoreapp3.1\Box_of_T.dll
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\obj\Debug\netcoreapp3.1\Box_of_T.pdb
+C:\Users\A474627\source\repos\Advanced_2021_GENERICS\Advanced_2021_GENERICS\obj\Debug\netcoreapp3.1\Box_of_T.genruntimeconfig.cache
